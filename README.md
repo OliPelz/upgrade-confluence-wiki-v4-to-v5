@@ -1,4 +1,4 @@
-#Upgrade Confluence Wiki to a new server (4.xx to 5.10.0) and migrating from mysql to postgres in the same process.
+# Upgrade Confluence Wiki to a new server (4.xx to 5.10.0) and migrating from mysql to postgres in the same process.
 =========================================================
 Here are my personal very detailed steps and the full complete process, please remember - mine migration process will be most likely different than yours, this is especially true for any mysql import errors while upgrading...
 The exact version upgrade is from 4.0.3 to 5.10.0
